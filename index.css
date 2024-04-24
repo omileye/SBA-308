@@ -1,0 +1,7 @@
+h1,h2 { background-color: aqua;
+    background-clip: padding-box;
+
+}
+
+div{ background-color: rgb(53, 172, 53);
+}

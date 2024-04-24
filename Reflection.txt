@@ -1,0 +1,18 @@
+1. What could you have done differently during the planning stages of your project to make the execution easier?
+
+During the planning stages of the project, it would have been beneficial to define the data structures and algorithms more thoroughly. Additionally, creating a detailed workflow or pseudocode for each function could have made the execution easier. Ensuring clear communication and alignment on project goals with all the external data would have also been helpful.
+
+2. Were there any requirements that were difficult to implement? What do you think would make them easier to implement in future projects?
+
+One requirement that was challenging to implement was handling edge cases, such as submissions with missing data or invalid dates. To make this easier in future projects, implementing robust error handling and validation mechanisms from the outset would be crucial. Additionally, having a more comprehensive understanding of the data sources and potential anomalies could aid in designing more resilient solutions.
+
+3. What would you add to, or change about your application if given more time?
+
+Given more time, several improvements could be made to the application. This includes adding features such as visualizations for learner performance trends, exporting reports to different formats (e.g., PDF or CSV), and implementing user authentication for secure access to the data. Furthermore, optimizing the code for performance and scalability would be a priority to handle larger datasets efficiently.
+
+4. Use this space to make notes for your future self about anything that you think is important to remember about this process, or that may aid you when attempting something similar again:
+
+Pay close attention to data validation and error handling, especially when dealing with external data sources.
+Document the code thoroughly to facilitate understanding and future maintenance.
+Consider modularizing the codebase to promote reusability and maintainability.
+Regularly review and refactor the code to adhere to best practices and improve readability.
